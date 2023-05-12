@@ -1,0 +1,65 @@
+{
+    "persone": [
+      {
+        "nome_utente": "Marco",
+        "stelle": 4,
+        "email": "marco.rossi@email.com",
+        "recensione": "La palestra di boxe è fantastica! Istruttori competenti e attrezzature di alta qualità. Mi sono divertito tantissimo durante gli allenamenti e ho ottenuto risultati visibili. Consigliatissima!"
+      },
+      {
+        "nome_utente": "Sara",
+        "stelle": 5,
+        "email": "sara.bianchi@email.com",
+        "recensione": "Sono rimasta molto soddisfatta della palestra di boxe. L'ambiente è accogliente e gli istruttori sono pazienti e professionali. Ho imparato molto e mi sento più forte e sicura di me. Non vedo l'ora di tornare!"
+      },
+      {
+        "nome_utente": "Luca",
+        "stelle": 4,
+        "email": "luca.verdi@email.com",
+        "recensione": "La palestra di boxe è il posto ideale per allenarsi. L'atmosfera è motivante e stimolante, e gli istruttori sono preparati e disponibili a dare consigli personalizzati. Mi ha aiutato a migliorare la mia forma fisica e a gestire lo stress. Consigliata a tutti!"
+      },
+      {
+        "nome_utente": "Martina",
+        "stelle": 5,
+        "email": "martina.russo@email.com",
+        "recensione": "Ho trovato la palestra di boxe perfetta per le mie esigenze. Le lezioni sono ben strutturate e coinvolgenti, e ho trovato un gruppo di compagni di allenamento fantastici. Ho perso peso e aumentato la mia resistenza. Non posso che consigliarla!"
+      },
+      {
+        "nome_utente": "Alessio",
+        "stelle": 3,
+        "email": "alessio.conti@email.com",
+        "recensione": "La palestra di boxe è eccellente! Gli istruttori sono veramente appassionati e competenti. Le attrezzature sono moderne e ben tenute. Mi piace l'atmosfera amichevole che si respira durante gli allenamenti. Non potrei chiedere di più da una palestra di boxe!"
+      },
+      {
+        "nome_utente": "Marco",
+        "stelle": 4,
+        "email": "marco.rossi@email.com",
+        "recensione": "La palestra di boxe è fantastica! Istruttori competenti e attrezzature di alta qualità. Mi sono divertito tantissimo durante gli allenamenti e ho ottenuto risultati visibili. Consigliatissima!"
+      },
+      {
+        "nome_utente": "Sara",
+        "stelle": 5,
+        "email": "sara.bianchi@email.com",
+        "recensione": "Sono rimasta molto soddisfatta della palestra di boxe. L'ambiente è accogliente e gli istruttori sono pazienti e professionali. Ho imparato molto e mi sento più forte e sicura di me. Non vedo l'ora di tornare!"
+      },
+      {
+        "nome_utente": "Luca",
+        "stelle": 4,
+        "email": "luca.verdi@email.com",
+        "recensione": "La palestra di boxe è il posto ideale per allenarsi. L'atmosfera è motivante e stimolante, e gli istruttori sono preparati e disponibili a dare consigli personalizzati. Mi ha aiutato a migliorare la mia forma fisica e a gestire lo stress. Consigliata a tutti!"
+      },
+      {
+        "nome_utente": "Martina",
+        "stelle": 5,
+        "email": "martina.russo@email.com",
+        "recensione": "Ho trovato la palestra di boxe perfetta per le mie esigenze. Le lezioni sono ben strutturate e coinvolgenti, e ho trovato un gruppo di compagni di allenamento fantastici. Ho perso peso e aumentato la mia resistenza. Non posso che consigliarla!"
+      },
+      {
+        "nome_utente": "Alessio",
+        "stelle": 3,
+        "email": "alessio.conti@email.com",
+        "recensione": "La palestra di boxe è eccellente! Gli istruttori sono veramente appassionati e competenti. Le attrezzature sono moderne e ben tenute. Mi piace l'atmosfera amichevole che si respira durante gli allenamenti. Non potrei chiedere di più da una palestra di boxe!"
+      }
+    ]
+  }
+  
